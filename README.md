@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Fla, i just started my journey at coding and CS in general in March 2024
-- 👀 I’m interested in coding and learning about CS as much as possible
-- 🌱 I’m currently learning Python.
-- 💻 Taking CS50 for fundamentals
-- ⚡ Fun fact: I like Fun facts  
+## 🛰️ About Astro8bit
+I curate **astro8bit.me/news**, a high-density feed designed for developers who are tired of fluff. Whether it's the latest LLM breakthrough, a critical Zero-Day exploit, or the pulse of the on-chain economy, I find the signal so you don't have to.
 
 <a href="https://app.daily.dev/f14v10"><img src="https://api.daily.dev/devcards/v2/TLtDPTtBJODEL5GboQmW8.png?type=default&r=t79" width="356" alt="F14v1o's Dev Card"/></a>
 <!---
