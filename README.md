@@ -19,13 +19,18 @@ I curate **astro8bit.me/news**, a high-density feed designed for developers who 
   </tr>
   <tr>
     <td>
+      <a href="https://codeinterminal.com/">
+        <img src="https://drive.google.com/uc?export=view&id=1EUoAAbL6xtsaTNV-MWBeAKmA-TdqycaG" width="400" style="display:
+  block;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://pokehub.dev">
         <img src="https://drive.google.com/uc?export=view&id=1VnHJCpzBt1Nh7ZrBEZwPXWVONSBvgSgL" width="400" style="display: block;">
       </a>
     </td>
   </tr>
 </table>
-<!---
-NoRizz99/NoRizz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
