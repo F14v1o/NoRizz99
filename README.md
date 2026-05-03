@@ -6,7 +6,7 @@ I curate **astro8bit.me/news**, a high-density feed designed for developers who 
   <tr>
     <td>
       <a href="https://app.daily.dev/f14v10">
-        <img src="https://drive.google.com/file/d/1BHIymsq_Ze9u64OHoYTpaqIfx0FP6az7/view?usp=sharing" width="400" style="display: block;">
+        <img src="https://drive.google.com/uc?export=view&id=1BHIymsq_Ze9u64OHoYTpaqIfx0FP6az7" width="400" style="display: block;">
       </a>
     </td>
   </tr>
