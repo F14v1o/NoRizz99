@@ -5,22 +5,22 @@ I curate **astro8bit.me/news**, a high-density feed designed for developers who 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <a href="https://app.daily.dev/f14v10">
-        <img src="https://drive.google.com/uc?export=view&id=1BHIymsq_Ze9u64OHoYTpaqIfx0FP6az7" width="400" style="display: block;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://astro8bit.me/news">
-        <img src="YOUR_MIDDLE_IMAGE_URL" width="400" style="display: block;">
+        <img src="https://drive.google.com/uc?export=view&id=1hwCsb93ye6zGJa2QJiTIwLAOlA0hxg9Y" width="400" style="display: block;">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://twitter.com/yourhandle">
-        <img src="YOUR_BOTTOM_IMAGE_URL" width="400" style="display: block;">
+      <a href="https://aag-news.com">
+        <img src="https://drive.google.com/uc?export=view&id=16Ac_i53gy0DVHPG4zHBnNR1vJaa6OJ_z" width="400" style="display: block;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://pokehub.dev">
+        <img src="https://drive.google.com/uc?export=view&id=1VnHJCpzBt1Nh7ZrBEZwPXWVONSBvgSgL" width="400" style="display: block;">
       </a>
     </td>
   </tr>
