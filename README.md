@@ -24,7 +24,7 @@ I curate **[astro8bit.me/news](https://astro8bit.me/news)**, a high-density feed
   <tr>
     <td>
       <a href="https://codeinterminal.com/">
-        <img src="https://drive.google.com/uc?export=view&id=1EUoAAbL6xtsaTNV-MWBeAKmA-TdqycaG" width="400" style="display:block;">
+        <img src="https://drive.google.com/thumbnail?id=1EUoAAbL6xtsaTNV-MWBeAKmA-TdqycaG&sz=w1000" width="400" style="display:block;">
       </a>
     </td>
   </tr>
