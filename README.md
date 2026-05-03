@@ -1,3 +1,7 @@
+### 🛰️ hey, I'm Fla, started my dev journey at around 2024, and i love to learn new things everyday!
+---
+
+
 <table border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td align="center" width="300">
@@ -15,7 +19,7 @@
   <tr>
     <td align="center" valign="top">
       <strong>Astro 8bit.me</strong><br>
-      <sub>Super curated tech news and techblog with daily news</sub>
+      <sub>Curated tech news and techblog with daily news</sub>
     </td>
     <td align="center" valign="top">
       <strong>AAG News</strong><br>
