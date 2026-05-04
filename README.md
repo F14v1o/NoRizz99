@@ -51,7 +51,7 @@ Earth-based software engineer, coffee-powered, side-project addicted.
     </td>
     <td align="center" valign="top">
       <strong>Pokehub.dev</strong><br>
-      <sub>Fun sideproject for pokemon fanatics</sub>
+      <sub>Fun sideproject for Pokemon fanatics</sub>
     </td>
   </tr>
 </table>
