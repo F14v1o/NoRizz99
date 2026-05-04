@@ -1,4 +1,4 @@
-### 🛰️ hey, I'm Fla, started my dev journey at around 2024, and i love to learn new things everyday!
+### ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Flavio&fontSize=90)
 ---
 
 
