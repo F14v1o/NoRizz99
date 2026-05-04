@@ -1,9 +1,29 @@
-    _        _                ___    ____  _ _   
-   / \   ___| |_ _ __ ___    ( _ )  | __ )(_) |_ 
-  / _ \ / __| __| '__/ _ \   / _ \  |  _ \| | __|
- / ___ \\__ \ |_| | | (_) | | (_) | | |_) | | |_ 
-/_/   \_\___/\__|_|  \___/   \___/  |____/|_|\__|
+# Hi, I'm Flavio 👋
+
+Software engineer, coffee-powered, side-project addicted.
+
+### What I'm up to
+- 🏗️ Co-Founder & Dev at [neuBau.website](https://neubau.website)
+- 🏠 Shareholder & Fullstack Dev at [ImmoMenu.ch](https://immomenu.ch)
+- 🤖 Building automations with n8n, Make.com & multi-agent AI workflows
+- 🖥️ Running a homelab that probably uses more power than my fridge
+
+### Stack I f with atm
+`React` `TypeScript` `Tailwind` `Supabase` `Python` `PostgreSQL` `Docker` `Proxmox` `n8n` `Make.com`
+
+### Off-keyboard
+Gym, running, markets, homelab and the eternal quest to automate one more thing.
+
+> Discipline is the foundation of everything I build.
+
+Check out my side projects below
+               |
+               v
 ---
+
+━━━━━━━━━━━━━━━▼━━━━━━━━━━━━━━━
+      S I D E  P R O J E C T S
+━━━━━━━━━━━━━━━▲━━━━━━━━━━━━━━━
 
 
 <table border="0" cellpadding="5" cellspacing="0">
