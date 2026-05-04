@@ -1,7 +1,7 @@
 ### Hi, I'm Fla 👋
 Earth-based software engineer, coffee-powered, side-project addicted.
 
-### Stack I f with atm
+### Stack I f.... with atm
 `React` `TypeScript` `Tailwind` `Supabase` `Python` `PostgreSQL` `Docker` `Proxmox` `n8n` `Make.com`
 
 
