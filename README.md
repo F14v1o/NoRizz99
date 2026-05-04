@@ -6,6 +6,7 @@ Earth-based software engineer, coffee-powered, side-project addicted.
 
 
 ### Off-keyboard
+
 Calisthenics, running, markets, homelab and the eternal quest to automate one more thing.
 ---
 ### Check out my side projects below
