@@ -11,6 +11,8 @@ Gym, running, markets, homelab and the eternal quest to automate one more thing.
 
 > Discipline is the foundation of everything I build.
 
+
+
 Check out my side projects below
 
 ━━━━━━━━━━━━━━━▼━━━━━━━━━━━━
