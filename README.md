@@ -1,4 +1,8 @@
-### ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Flavio&fontSize=90)
+    _        _                ___    ____  _ _   
+   / \   ___| |_ _ __ ___    ( _ )  | __ )(_) |_ 
+  / _ \ / __| __| '__/ _ \   / _ \  |  _ \| | __|
+ / ___ \\__ \ |_| | | (_) | | (_) | | |_) | | |_ 
+/_/   \_\___/\__|_|  \___/   \___/  |____/|_|\__|
 ---
 
 
