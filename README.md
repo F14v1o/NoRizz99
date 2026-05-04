@@ -7,11 +7,7 @@ Earth-based software engineer, coffee-powered, side-project addicted.
 
 ### Off-keyboard
 Calisthenics, running, markets, homelab and the eternal quest to automate one more thing.
-
-
-> Discipline is the foundation of everything I build.
-
-
+---
 ### Check out my side projects below
 ---
 
@@ -66,3 +62,5 @@ Calisthenics, running, markets, homelab and the eternal quest to automate one mo
     </td>
   </tr>
 </table>
+
+> Discipline is the foundation of everything I build.
